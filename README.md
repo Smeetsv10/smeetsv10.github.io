@@ -5,7 +5,7 @@ I am a mechanical engineer, currently doing a PhD at the KU Leuven. My research 
 In my spare time I liek to make flutter applications.
 
 ## Flutter Apps
-- <a href="https://smeetsv10.github.io/FakeTimerWebApp/" target = "_blank"> FakeTimer </a>
+- <a href="https://smeetsv10.github.io/FakeTimerWebApp/" target ="_blank"> FakeTimer </a>
 - [BrowserHomePage](https://github.com/Smeetsv10/BrowserHomepage)
 - [MachineLearning](https://smeetsv10.github.io/FlutterML/)
 

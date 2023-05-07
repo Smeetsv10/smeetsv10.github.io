@@ -1,4 +1,4 @@
-### Project overview
+# Project overview
 
 ## About me:
 I am a mechanical engineer, currently doing a PhD at the KU Leuven. My research includes: 'Parameter and state estimation for mechatronic system applications'.

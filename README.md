@@ -10,6 +10,8 @@ In my spare time I like to make flutter applications.
 - [BrowserHomePage](https://github.com/Smeetsv10/BrowserHomepage)
 - [MachineLearning](https://smeetsv10.github.io/FlutterML/)
 - [TravelPlanner](https://smeetsv10.github.io/travel-planner-project/)
+- [Battery Sizing Tool](https://smeetsv10.github.io/FluviusCalculations/)
+
 ## Python Apps
 - [FuelApplet]([https://](https://external.ink?to=)github.com/Smeetsv10/FuelApplet)
 

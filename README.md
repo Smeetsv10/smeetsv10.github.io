@@ -9,6 +9,7 @@ In my spare time I like to make flutter applications.
 - [FakeTimer](https://smeetsv10.github.io/FakeTimerWebApp/)
 - [TravelPlanner](https://smeetsv10.github.io/travel-planner-project/)
 - [Battery Sizing Tool](https://smeetsv10.github.io/FluviusCalculations/)
+- [M&J Hair Salon](https://smeetsv10.github.io/HairSalonWebpage/)
 
 ## Python Apps
 - [FuelApplet]([https://](https://external.ink?to=)github.com/Smeetsv10/FuelApplet)

@@ -5,7 +5,7 @@ I am a mechanical engineer, currently doing a PhD at the KU Leuven. My research 
 In my spare time I like to make flutter applications.
 
 ## Flutter Apps
-- [RemoteControlCard](https://smeetsv10.github.io/RemoteControlCard/)
+- [RemoteControlCard](https://smeetsv10.github.io/Moustache-Classic/)
 - [FakeTimer](https://smeetsv10.github.io/FakeTimerWebApp/)
 - [TravelPlanner](https://smeetsv10.github.io/travel-planner-project/)
 - [Battery Sizing Tool](https://smeetsv10.github.io/FluviusCalculations/)

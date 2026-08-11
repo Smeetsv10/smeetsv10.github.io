@@ -11,7 +11,7 @@ In my spare time I like to make flutter applications.
 - [Battery Sizing Tool](https://smeetsv10.github.io/FluviusCalculations/)
 - [M&J Hair Salon](https://smeetsv10.github.io/HairSalonWebpage/)
 - [KBC BudgetTracker](https://smeetsv10.github.io/budgetTracker/)
-- [Slalom UI](https://smeetsv10.github.io/slalom_ui/)
+- [Slalom UI](https://smeetsv10.github.io/Slalom_UI/)
 
 ## Python Apps
 - [FuelApplet]([https://](https://external.ink?to=)github.com/Smeetsv10/FuelApplet)

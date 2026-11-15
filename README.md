@@ -9,7 +9,7 @@ In my spare time I like to make flutter applications.
 - [FakeTimer](https://smeetsv10.github.io/FakeTimerWebApp/)
 - [TravelPlanner](https://smeetsv10.github.io/travel-planner-project/)
 - [Battery Sizing Tool](https://smeetsv10.github.io/FluviusCalculations/)
-- [M&J Hair Salon](https://smeetsv10.github.io/HairSalonWebpage/)
+- [Hair Salon](https://smeetsv10.github.io/HairSalonWebpage/)
 - [KBC BudgetTracker](https://smeetsv10.github.io/budgetTracker/)
 - [Slalom UI](https://smeetsv10.github.io/Slalom_UI/)
 

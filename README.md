@@ -12,6 +12,8 @@ In my spare time I like to make flutter applications.
 - [Hair Salon](https://smeetsv10.github.io/HairSalonWebpage/)
 - [KBC BudgetTracker](https://smeetsv10.github.io/budgetTracker/)
 - [Slalom UI](https://smeetsv10.github.io/Slalom_UI/)
+- [Car_Kalman_Filter](https://smeetsv10.github.io/CarKalmanFilter/)
+
 
 ## Python Apps
 - [FuelApplet]([https://](https://external.ink?to=)github.com/Smeetsv10/FuelApplet)
